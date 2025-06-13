@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Lidar Intro",
+      "type": "markdown",
+      "url": "https://raw.githubusercontent.com/CPPpriest/assets/main/markdown/lidar-intro.md"
+    },
+    {
+      "name": "LAS File Structure",
+      "type": "markdown",
+      "url": "https://raw.githubusercontent.com/CPPpriest/assets/main/markdown/las-file-structure.md"
+    },
+    {
+      "name": "UML Sequence Diagram",
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/CPPpriest/assets/main/image/uml-sequence.png"
+    },
+    {
+      "name": "Resume PDF",
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/CPPpriest/assets/main/doc/resume.pdf"
+    },
+    {
+      "name": "Blog Metadata",
+      "type": "json",
+      "url": "https://raw.githubusercontent.com/CPPpriest/assets/main/json/Blog.json"
+    }
+  ]
