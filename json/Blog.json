@@ -1,0 +1,78 @@
+{
+    "blog": {
+        "title": "Blog",
+        "description": "Thoughts on engineering, see what I have been up to lately",
+        "posts": [
+            {
+                "id": "featured-1",
+                "title": "Understanding the LAS File Structure",
+                "excerpt": "One of the key aspects of working with LiDAR is to understand how pointcloud data is stored, particularly in the LAS file format. In this article, I will explain the structure of LAS files, their use and importance in LiDAR data processing.",
+                "contentPath": "../data/documents/posts/las-file-structure.md",
+                "date": "March 1, 2025",
+                "readTime": "8 min read",
+                "author": "Ömer Kılınç",
+                "slug": "las-file-structure",
+                "images": [
+                    {
+                        "url": "../data/images/blog/las-structure-overview.png",
+                        "alt": "LAS File Structure Overview",
+                        "caption": "Figure 1: Overview of LAS File Components"
+                    },
+                    {
+                        "url": "../data/images/blog/point-cloud-example.png",
+                        "alt": "Point Cloud Visualization",
+                        "caption": "Figure 2: Example of LiDAR Point Cloud Data"
+                    },
+                    {
+                        "url": "../data/images/blog/las-header-structure.png",
+                        "alt": "LAS Header Structure",
+                        "caption": "Figure 3: Detailed View of LAS File Header"
+                    }
+                ],
+                "documents": [
+                    {
+                        "url": "../data/documents/las-format-guide.pdf",
+                        "title": "LAS Format Technical Guide",
+                        "type": "pdf",
+                        "size": "1.8MB"
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "title": "LiDAR Sensors",
+                "excerpt": "LiDAR (Light Detection and Ranging) sensors work by emitting laser pulses toward a target and measuring the time it takes for the reflected pulses to return. This article explains the fundamental concepts and different types of LiDAR sensors.",
+                "contentPath": "../data/documents/posts/lidar-intro.md",
+                "date": "Jan 26, 2025",
+                "readTime": "4 min read",
+                "author": "Ömer Kılınç",
+                "slug": "lidar-intro",
+                "images": [
+                    {
+                        "url": "../data/images/blog/lidar-sensor-overview.png",
+                        "alt": "LiDAR Sensor Overview",
+                        "caption": "Figure 1: Overview of LiDAR sensor components and operation"
+                    },
+                    {
+                        "url": "../data/images/blog/uml-sequence.png",
+                        "alt": "LIDAR Capturing Sequence Diagram",
+                        "caption": "Figure 2: Sequence diagram showing the LiDAR scanning process"
+                    },
+                    {
+                        "url": "../data/images/blog/lidar-types.png",
+                        "alt": "Different Types of LiDAR Sensors",
+                        "caption": "Figure 3: Comparison of different LiDAR sensor types and their applications"
+                    }
+                ],
+                "documents": [
+                    {
+                        "url": "../data/documents/lidar-specs.pdf",
+                        "title": "LiDAR Sensor Specifications Guide",
+                        "type": "pdf",
+                        "size": "1.2MB"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "resume": {
+        "personal_info": {
+            "name": "Ömer Kılınç",
+            "title": "Computer Engineer",
+            "contact": {
+                "email": "mrkilinc22@gmail.com",
+                "linkedin": "https://linkedin.com/in/ömer-kılınç-4532101a0",
+                "github": "https://github.com/CPPpriest"
+            },
+            "about": "Computer engineering major with a keen interest in advanced mathematics, complex design and system architecture. Experienced with designing and constructing advanced software systems from scratch.",
+            "resume_download": "/resume.pdf"
+        },
+        "education": [
+            {
+                "degree": "Undergraduate - Computer Engineering",
+                "school": "Middle East Technical University",
+                "date": "May 2025",
+                "location": "Ankara, Türkiye"
+            },
+            {
+                "degree": "Exchange Program - Information Technology",
+                "school": "Lodz University of Technology",
+                "date": "May 2022",
+                "location": "Lodz, Poland"
+            },
+            {
+                "degree": "High School",
+                "school": "Ankara Atatürk Lisesi",
+                "date": "May 2019",
+                "location": "Ankara, Türkiye"
+            }
+        ],
+        "experience": [
+            {
+                "title": "Software Developer (Part-time)",
+                "company": "Yapı Kredi Teknoloji",
+                "date": "09 Jan 2023 – 14 July 2024",
+                "location": "Remote",
+                "responsibilities": [
+                    "Refactored legacy code and integrated services.",
+                    "Worked with a cross-functional team of developers and analysts.",
+                    "Developed Frontend and Backend following Agile/Scrum methodologies.",
+                    "React.ts, Maven, Java, Spring Framework"
+                ]
+            },
+            {
+                "title": "Co-Founder",
+                "company": "Startup",
+                "date": "14 July 2024 – Nov 2024",
+                "location": "Ankara, Türkiye",
+                "responsibilities": [
+                    "System Architecture: Designed data, action and transaction ﬂows for consistent, modular development.",
+                    "UI/UX Design: Developed wireframes and prototypes in Figma.",
+                    "Mobile App Development: Built a full-featured app from scratch using Flutter framework. Integrated Firebase services as serverless backend. Tested on Xcode Emulators and physical devices.",
+                    "Analytics & Automation: Implemented Firebase Analytics and Google Apps Script for automation and tracking.",
+                    "Secure Payment Processing: Integrated Stripe for online and in-app payments, optimizing both frontend and backend performance for better payment experience.",
+                    "Security & Access Control: Conﬁgured MFA, IAM roles and Google Admin Console security policies, complying secure-by-design principles",
+                    "IoT - eSIM Integrations: Enabled IoT eSIM connectivity for consumer devices using BICS and 1Global APIs.",
+                    "Regulatory Compliance: Studied ENISA, FCC and EU tax regulations for legal and operational adherence."
+                ]
+            }
+        ],
+        "technical_skills": {
+            "web_development": [
+                "Flutter",
+                "React",
+                "Node.js",
+                "Redis",
+                "Vite"
+            ],
+            "cloud_computing": [
+                "Docker",
+                "Firebase",
+                "Firebase SDK",
+                "Google Cloud IAM",
+                "GCP"
+            ],
+            "graphics": [
+                "OpenGL (C++)",
+                "Open3D (Python)",
+                "OpenCV (C++)",
+                "PDAL",
+                "laspy"
+            ],
+            "dev_tools": [
+                "GDB Debugger",
+                "GHidra Decompiler",
+                "Vim",
+                "git",
+                "CMake",
+                "Bash"
+            ],
+            "project_collaboration_tools": [
+                "GitHub",
+                "GitLab",
+                "Atlassian"
+            ]
+        },
+        "academic_research": {
+            "title": "Remote Dynamic eSIM Provisioning for Consumer Devices",
+            "advisor": "Prof. Dr. Ertan Onur",
+            "location": "WINS Lab, Ankara, Türkiye",
+            "date": "Jan 2024 – Present",
+            "details": [
+                "Research on the feasibility of a remote, dynamically provisioned eSIM system that automatically switches carrier proﬁles based on an adaptive algorithm.",
+                "The goal is to develop a simulator that demonstrates whether the eSIM provisioning of GSMA consumer architecture can be securely optimized by mimicking the existing IoT provisioning mechanisms on consumer devices",
+                "Through simulations, this research aims to analyze the technical and economic viability of a usage based billing where consumers do not have subscriptions to Mobile Network Providers but choose the best service in a particular area"
+            ]
+        }
+    }
+}

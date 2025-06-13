@@ -1,0 +1,55 @@
+{
+    "projects": {
+        "title": "Projects",
+        "description": "Here are some things I've built",
+        "projects_list": [
+            {
+                "title": "TRUCK - LiDAR Processing",
+                "description": [
+                    "Developed a containerized processing pipeline to analyze truck LiDAR scans and images for volume estimation and feature extraction.",
+                    "Implemented a modular system with LiDAR point cloud processing, mesh generation and volume calculation using Open3D.",
+                    "Integrated GCP for data storage, authentication and UI hosting",
+                    "Utilized Three.js to render interactive 3D models from processed LiDAR scans on the web app."
+                ],
+                "technologies": [
+                    "LiDAR Processing",
+                    "Open3D",
+                    "Google Cloud Run",
+                    "Docker",
+                    "Three.js"
+                ],
+                "link": "#"
+            },
+            {
+                "title": "Personal Website",
+                "description": [
+                    "Built a personal website with a personal blog page.",
+                    "Implemented interactive blog management.",
+                    "Optimized for high performance and minimal downtime."
+                ],
+                "technologies": [
+                    "React.js",
+                    "Firebase",
+                    "Google Analytics"
+                ],
+                "link": "#"
+            },
+            {
+                "title": "eSIM App",
+                "description": [
+                    "Developed a phone application that allowed remote conditional updates.",
+                    "Implemented a token based security system.",
+                    "Integrated Stripe payment system.",
+                    "Designed an automated mechanism for network selection based on user data consumption patterns."
+                ],
+                "technologies": [
+                    "IoT SMS API",
+                    "IoT Data Access API",
+                    "Flutter",
+                    "Stripe"
+                ],
+                "link": "#"
+            }
+        ]
+    }
+}

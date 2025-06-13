@@ -1,0 +1,14 @@
+{
+    "home": {
+        "name": "ÖMER KILINÇ",
+        "title": "Computer Engineer",
+        "welcomeMessage": "Welcome",
+        "colors": {
+            "borderColor": "#00fff2",
+            "glowColor": "rgba(0, 255, 242, 0.5)",
+            "textColor": "#00fff2",
+            "subtitleColor": "#ff00e5",
+            "subtitleGlowColor": "rgba(255, 0, 229, 0.5)"
+        }
+    }
+}
